@@ -1,2 +1,2 @@
 # Syntax-Analyzer
-A java implementation of Syntax Analysis phase in Compiler Design
+An implementation of Lexical Analysis & Syntax Analysis phase in Compiler Design
